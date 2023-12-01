@@ -1,16 +1,20 @@
-### Hi there 👋
+# Meu Repositório Pessoal
 
-<!--
-**cristianritter/cristianritter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório pessoal! Aqui, compartilho alguns projetos e códigos que estou desenvolvendo.
 
-Here are some ideas to get you started:
+## Portfólio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se você estiver interessado em conhecer mais sobre meu trabalho, confira meu portfólio online:
+
+[**Meu Portfólio**](https://cristianritter-portifolio.webnode.page/)
+
+
+## Como Contribuir
+
+Sinta-se à vontade para abrir problemas, sugerir melhorias ou contribuir diretamente para meus projetos. Toda colaboração é bem-vinda!
+
+## Contato
+
+Você pode me contatar por e-mail em [cristianritter@gmail.com](mailto:cristianritter@gmail.com).
+
+Agradeço por visitar meu repositório!
